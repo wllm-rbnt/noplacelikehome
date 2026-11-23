@@ -44,7 +44,7 @@ Choose a small improvement with a clear, demonstrable benefit.
 
 Suitable contributions include:
 
-- Adding content
+- Adding content.
 - Fixing a bug, broken link, or factual or typographical mistake.
 - Improving accessibility, usability, or mobile layouts.
 - Clarifying existing text without changing its meaning or voice.
